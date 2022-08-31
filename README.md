@@ -4,4 +4,4 @@ NPM     : 2106707315
 
 Kelas   : F
 
-Hobi	: Tidur
+Hobi	: Makan
